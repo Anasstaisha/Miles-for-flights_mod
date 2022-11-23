@@ -6,6 +6,6 @@ public class Main {
         int price = 15_350;
         double miles = service.calculate(price);
         System.out.println("Стоимость Вашего билета: " + price);
-        System.out.println("Ваши бонусные мили за эту покупкку: " + miles);
+        System.out.println("Ваши бонусные мили за эту покупку: " + miles);
     }
 }
