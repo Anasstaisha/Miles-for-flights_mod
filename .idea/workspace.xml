@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6686951b-d577-4bec-abcf-b65b0ab56a4c" name="Changes" comment="folder out added to gitignore">
+    <list default="true" id="6686951b-d577-4bec-abcf-b65b0ab56a4c" name="Changes" comment="modernization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BonusMilesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BonusMilesService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668524801295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modernization">
+      <created>1669216036500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669216036500</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Калькулятор бонусных миль" />
-    <option name="LAST_COMMIT_MESSAGE" value="Калькулятор бонусных миль" />
+    <MESSAGE value="modernization" />
+    <option name="LAST_COMMIT_MESSAGE" value="modernization" />
   </component>
 </project>

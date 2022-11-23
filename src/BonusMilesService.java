@@ -1,7 +1,7 @@
 package src;
 
 public class BonusMilesService {
-    int calculate(int cost) {
+    double calculate(double cost) {
         return cost / 20;
     }
 }
